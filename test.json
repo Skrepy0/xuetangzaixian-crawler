@@ -1,0 +1,2462 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>“一箪食,一瓢饮,在陋巷,人不堪其忧,回也不改其乐”。由此,中华民族崇尚精神的优秀传统体现在(       )\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>对物质生活与精神生活相互关系的独到理解上</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>对理想的不懈追求上</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>对理想人格的推崇</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>对道德修养和道德教化的重视上</p>"
+                    }
+                ],
+                "Version": "5f88934eb4264e55ba1fc2d73713d121",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200314,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654213,
+                "ProblemType": 1,
+                "template_id": 7200314
+            },
+            {
+                "Body": "<p>爱国主义是调节个人与祖国之间关系的道德要求、(       )和法律规范,也是民族精神的核心。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>工作原则</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>行为原则</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>生活原则</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>政治原则</p>"
+                    }
+                ],
+                "Version": "233bad2a7aa64332aea6d28494505ae6",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200315,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654214,
+                "ProblemType": 1,
+                "template_id": 7200315
+            },
+            {
+                "key": 3,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>“(\n &nbsp;\n &nbsp;)是指国家机关、社会组织和公民个人依照法律规定行使权力或权利以及履行职责或义务的活动。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律执行</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律制定</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律适用</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律遵守</p></div>"
+                    }
+                ],
+                "Version": "74105499812247d9b8905491a7668ebb",
+                "unionid": "1638104220729-73362",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714226,
+                "max_retry": 1,
+                "TemplateID": 7200316,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654215,
+                "ProblemType": 1,
+                "answerIndex": 3,
+                "template_id": 7200316,
+                "problemIndex": 3
+            },
+            {
+                "Body": "<p>改革开放40多年来,党带领人民在继承和弘扬伟大民族精神的基础上,立足新的时代条件,赋予民族精神以新的时代内涵,形成了以(       )为核心的时代精神。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>爱好和平</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>勤劳勇敢</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>改革创新</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>爱国主义</p>"
+                    }
+                ],
+                "Version": "d6b6c1055d18420f920d9cbdf7cbc41a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200317,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654216,
+                "ProblemType": 1,
+                "template_id": 7200317
+            },
+            {
+                "Body": "<p>“为人民服务”是毛泽东主席为纪念(       )而提出的。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>雷锋</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>张思德</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>方志敏</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>董存瑞</p>"
+                    }
+                ],
+                "Version": "a2728aec5e9641228a7f68c45f3fa73a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200318,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654217,
+                "ProblemType": 1,
+                "template_id": 7200318
+            },
+            {
+                "key": 6,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>祖国必须统一,也必然统一。\n这表明弘扬新时代爱国主义要(\n &nbsp; &nbsp; )。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>把维护祖国统一和民族团结作为重要着力点和落脚点</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>坚持爱国主义和社会主义相统一</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>坚持爱国主义和坚定拥护中国共产党的领导相统一</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>正确处理好立足民族与面向世界的辩证统一关系</p></div>"
+                    }
+                ],
+                "Version": "c1d55f9f1d57426eb90e43722db2d221",
+                "unionid": "1681705719997-72232",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714229,
+                "max_retry": 1,
+                "TemplateID": 7200319,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654218,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "template_id": 7200319,
+                "problemIndex": 6
+            },
+            {
+                "Body": "<p>“天地英雄气,千秋尚凛然。”一个有希望的民族不能没有英雄,一个有前途的国家不能没有先锋。我们要对中华民族的英雄心怀崇敬,自觉\n(   \n  )。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>尊重和传承中华民族历史和文化</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>维护祖国统一</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>维护民族团结</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>倡导求同存异、交流互鉴</p>"
+                    }
+                ],
+                "Version": "d449969525cd4815abb78ef8fc72d341",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200320,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654219,
+                "ProblemType": 1,
+                "template_id": 7200320
+            },
+            {
+                "Body": "<p>英雄烈士纪念日是(       )。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>9月30日</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>10月1日</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>12月13日</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>4月5日</p>"
+                    }
+                ],
+                "Version": "1f6cdf7554b04559a6061bf2cf7e7e45",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200321,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654220,
+                "ProblemType": 1,
+                "template_id": 7200321
+            },
+            {
+                "Body": "<p>国家安全是指一个国家不受(       )威胁、破坏而保持稳定有序的状态。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>内部的</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>内部和外部的</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>外部的</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>敌对国家</p>"
+                    }
+                ],
+                "Version": "f506461d444349cdbab562b5e9cfc135",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200322,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654221,
+                "ProblemType": 1,
+                "template_id": 7200322
+            },
+            {
+                "Body": "<p>(\n     )是人最基本、最原始的权利,具有神圣性与不可转让性,不可非法剥夺,是人享有其他各项权利的前提。\n   </p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>生命权</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>健康权</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>身体权</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>人身自由权</p>"
+                    }
+                ],
+                "Version": "8ecb1afc3af64fc4847f25ffa3d62761",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200325,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654222,
+                "ProblemType": 1,
+                "template_id": 7200325
+            },
+            {
+                "Body": "<p>经济全球化意味着(       )。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>政治一体化</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>生产要素流动全球化</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>文化一体化</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>价值观一体化</p>"
+                    }
+                ],
+                "Version": "3b2df99d8f7f458ba8050953e2399098",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200326,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654223,
+                "ProblemType": 1,
+                "template_id": 7200326
+            },
+            {
+                "Body": "<p>习近平总书记曾指出:(       )是中国青年运动的时代主题。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>为建设社会主义现代化强国而奋斗</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>为实现祖国的完全统一而奋斗</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>为实现中华民族伟大复兴的中国梦而奋斗</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>为实现全面小康社会而奋斗。</p>"
+                    }
+                ],
+                "Version": "c9e65ee347c74350a9bd03f406f0c507",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200327,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654224,
+                "ProblemType": 1,
+                "template_id": 7200327
+            },
+            {
+                "Body": "<p>个人本身就是目的,社会和他人只是达到个人目的的手段。这是下列哪种错误人生观的主张(       )\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>拜金主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>享乐主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>个人主义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>集体主义</p>"
+                    }
+                ],
+                "Version": "6bb8efd2c90a4c4388b6574553785b9c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200328,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654225,
+                "ProblemType": 1,
+                "template_id": 7200328
+            },
+            {
+                "Body": "<p>“饥饿的年代,理想是温饱;温饱的年代,理想是文明;离乱的年代,理想是安定;安定的年代,理想是繁荣。”流沙河写的这句诗体现了理想的(       )特征:\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>超越性</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>实践性</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>时代性</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>阶级性</p>"
+                    }
+                ],
+                "Version": "a433a3bb8aa449068899b50f0eac65ed",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200329,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654226,
+                "ProblemType": 1,
+                "template_id": 7200329
+            },
+            {
+                "Body": "<p> 我国《宪法》规定的通信自由权属于下列哪种权利(       )。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>政治权利</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>表达权</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>人身权</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>文化权利</p>"
+                    }
+                ],
+                "Version": "acf59004bccf40c9a05d93a7140689ea",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600079,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654227,
+                "ProblemType": 1,
+                "template_id": 7600079
+            },
+            {
+                "key": 16,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>邻里之间互谅互让,互帮互助,宽以待人,团结友爱。这是人们在社会生活中应当遵循的(\n &nbsp;\n &nbsp;)。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>社会公德</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>职业道德</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>环境道德</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>家庭美德</p></div>"
+                    }
+                ],
+                "Version": "ab18095de4a8414b95fca75f443cc403",
+                "unionid": "1638095586699-16273",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714239,
+                "max_retry": 1,
+                "TemplateID": 7200331,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654228,
+                "ProblemType": 1,
+                "answerIndex": 3,
+                "template_id": 7200331,
+                "problemIndex": 16
+            },
+            {
+                "Body": "<p>人类社会发展的历史表明,对一个民族、一个国家来说,最持久、最深层的力量是全社会共同认可的(\n     )。</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>价值观</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>核心价值观</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>社会核心价值观</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>社会主义核心价值观</p>"
+                    }
+                ],
+                "Version": "5644071bcac54d44a39df7194a852d7d",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200332,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654229,
+                "ProblemType": 1,
+                "template_id": 7200332
+            },
+            {
+                "Body": "<p>(\n     )的价值追求揭示了当代中国在经济发展、政治文明、文化繁荣、社会进步等方面的价值目标。</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>富强、民主、文明、和谐</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>自由、平等、公正、法治</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>富强、民主、公正、友善</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>爱国、敬业、诚信、友善</p>"
+                    }
+                ],
+                "Version": "27a6afff57de4401bdf155eea28bf550",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200333,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654230,
+                "ProblemType": 1,
+                "template_id": 7200333
+            },
+            {
+                "Body": "<p>夏明翰的“砍头不要紧,只要主义真。杀了夏明翰,还有后来人”体现了中国革命道德的(       )精神。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>全心全意为人民服务</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>始终把革命利益放在首位</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>修身自律,保持节操</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>为实现社会主义和共产主义理想而奋斗</p>"
+                    }
+                ],
+                "Version": "90813ac053cd45d2a3c5f4d6a0325f1b",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200334,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654231,
+                "ProblemType": 1,
+                "template_id": 7200334
+            },
+            {
+                "Body": "<p>(       )关系是家庭关系的核心。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>父子</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>父女</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>子女</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>夫妻</p>"
+                    }
+                ],
+                "Version": "50e612ac132d45bcb4ce84e8a58de11a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200336,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654232,
+                "ProblemType": 1,
+                "template_id": 7200336
+            },
+            {
+                "Body": "<p>我国现行宪法自公布实施以来一共进行了几次修订?(       )\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>四次</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>五次</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>六次</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>七次</p>"
+                    }
+                ],
+                "Version": "a880172d71944e73a30afc17de1779a9",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200337,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654233,
+                "ProblemType": 1,
+                "template_id": 7200337
+            },
+            {
+                "Body": "<p>依照我国现行宪法的规定,民族自治地方正确表述是指(\n     )。 </p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>自治区、自治县、自治乡</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>自治区、自治州、自治县</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>自治区、自治县、民族乡</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>自治州、自治县、自治乡</p>"
+                    }
+                ],
+                "Version": "e24deda805174deb88ea7d666207f206",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200338,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654234,
+                "ProblemType": 1,
+                "template_id": 7200338
+            },
+            {
+                "Body": "<p>现代国家地位最高、效力最广、强制力最大的规范是(       )。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>宗教规范</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>道德规范</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>政策规范</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>法律规范</p>"
+                    }
+                ],
+                "Version": "e1d56561d92f4d62910939a5d2ebf35f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200339,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654235,
+                "ProblemType": 1,
+                "template_id": 7200339
+            },
+            {
+                "Body": "<p>(\n     )是公民权利保障的最后防线。</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>宪法保障</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>立法保障</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>行政保护</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>司法保障</p>"
+                    }
+                ],
+                "Version": "09a65a710bd84be3a18a15908fbe427e",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200340,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654236,
+                "ProblemType": 1,
+                "template_id": 7200340
+            },
+            {
+                "Body": "<p>生活在同一社会中的成员拥有同等的发展进步权,反对任何形式的歧视,体现的是(       )的要求。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>权利公平</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>机会公平</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>规则公平</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>救济公平</p>"
+                    }
+                ],
+                "Version": "2e361a5c90394d9894642259dec4b210",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200341,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654237,
+                "ProblemType": 1,
+                "template_id": 7200341
+            },
+            {
+                "Body": "<p>人生价值的评价方法包括(       )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>坚持能力有大小与贡献须尽力相统一</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>坚持物质贡献与精神贡献相统一</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>坚持当前贡献与长远贡献相统一</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>坚持完善自身与贡献社会相统一</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>坚持国内贡献与国际贡献相统一</p>"
+                    }
+                ],
+                "Version": "90a7632500014e5885aa174c24d3b0af",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200344,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654238,
+                "ProblemType": 2,
+                "template_id": 7200344,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>马克思主义是科学信仰。它与其他任何理论体系相比,马克思主义具有以下鲜明的特征(\n     )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>马克思主义体现了科学性和革命性的统一</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>马克思主义具有鲜明的实践品格</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>马克思主义具有持久的生命力</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>马克思主义穷尽了世间一切真理</p>"
+                    }
+                ],
+                "Version": "002d84c55e2c4c0d82eed0cb9ddec306",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200345,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654239,
+                "ProblemType": 2,
+                "template_id": 7200345,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>“思想道德与法治”,是一门融(       )于一体的思想政治理论课。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>思想性</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>政治性</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>科学性</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>理论性</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>实践性</p>"
+                    }
+                ],
+                "Version": "a763c562a5ec40bfb9dcae2dba3c53d4",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600080,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654240,
+                "ProblemType": 2,
+                "template_id": 7600080,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>维护祖国统一和民族团结,必须不断增强“五个认同”即(\n  \n )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>对伟大祖国的认同</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>对中华民族的认同</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>对中华文化的认同</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>对中国共产党的认同</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>对中国特色社会主义的认同</p>"
+                    },
+                    {
+                        "key": "F",
+                        "value": "<p>对马克思主义的认同</p>"
+                    }
+                ],
+                "Version": "4450ecdc82df46658ddb53ce3b4f584d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200347,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654241,
+                "ProblemType": 2,
+                "template_id": 7200347,
+                "awardingRule": 0
+            },
+            {
+                "key": 30,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>中国精神的丰富内涵包括(&nbsp; &nbsp; &nbsp; &nbsp; )</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>伟大创造精神</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>伟大奋斗精神</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>伟大团结精神</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>伟大梦想精神</p></div>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>勤劳勇敢精神</p></div>"
+                    }
+                ],
+                "Version": "edd25f3c1e5f408db85f070810652bda",
+                "unionid": "1638096409269-6733",
+                "TypeText": "多选题",
+                "HalfScore": 1,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714253,
+                "max_retry": 1,
+                "TemplateID": 7200348,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654242,
+                "ProblemType": 2,
+                "template_id": 7200348,
+                "awardingRule": 0,
+                "problemIndex": 30
+            },
+            {
+                "Body": "<p>法治素养是指人们通过(\n     )的素质、修养和能力。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>学习法律知识</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>理解法律本质</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>运用法治思维</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>依法维护权利</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>依法履行义务</p>"
+                    }
+                ],
+                "Version": "65a7d0fa6b774ee887dea272332007bc",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200349,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654243,
+                "ProblemType": 2,
+                "template_id": 7200349,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>人生观的主要内容包括(\n     )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>人生目的</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>人生态度</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>人生价值</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>人生阶段</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>人生方向</p>"
+                    }
+                ],
+                "Version": "d6d8131f622e467494aa033ee2683f1d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200350,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654244,
+                "ProblemType": 2,
+                "template_id": 7200350,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>下列有关法治思维正确的表述是(       )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>法治思维是一种正当性思维</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>法治思维是一种规范性思维</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>法治思维是一种逻辑思维</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>法治思维是一种科学思维</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>法治思维是一种特殊的高级法律意识</p>"
+                    }
+                ],
+                "Version": "70c173522b68455ca950e5ce949ffdc8",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7200351,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654245,
+                "ProblemType": 2,
+                "template_id": 7200351,
+                "awardingRule": 0
+            },
+            {
+                "key": 34,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>法律区别于其他社会规范的重要特征是(\n &nbsp; &nbsp; )。</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律具有规范性</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律由国家制定或认可</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律以国家强制力保证其实施</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法律对全体社会成员具有普遍约束力</p></div>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>调整所有社会关系</p></div>"
+                    }
+                ],
+                "Version": "4c9927f863a441bdb1f8b6dcd6f4ced5",
+                "unionid": "1638105268102-68306",
+                "TypeText": "多选题",
+                "HalfScore": 1,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714257,
+                "max_retry": 1,
+                "TemplateID": 7200352,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654246,
+                "ProblemType": 2,
+                "template_id": 7200352,
+                "awardingRule": 0,
+                "problemIndex": 34
+            },
+            {
+                "key": 35,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>大学生确立共产主义远大理想需要做到(&nbsp;\n&nbsp;&nbsp;&nbsp;)</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>阅读马克思主义的经典作品</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>培养自己独立思考的能力&nbsp; &nbsp; &nbsp;</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>人云亦云,坐等共产主义实现</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>&nbsp;C、投身于实现中国梦的实践中</p></div>"
+                    }
+                ],
+                "Version": "7970e989e3214ab8a19174cc03e3fd39",
+                "unionid": "1638097028710-40623",
+                "TypeText": "多选题",
+                "HalfScore": 1,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "ProblemID": 14714258,
+                "max_retry": 1,
+                "TemplateID": 7600081,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654247,
+                "ProblemType": 2,
+                "template_id": 7600081,
+                "awardingRule": 0,
+                "problemIndex": 35
+            },
+            {
+                "Body": "<p>大学生要有作为中华儿女的骄傲和自豪,不断增强做中国人的(\n \n ),树立正确的政治方向和远大的人生志向。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>志气</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>骨气</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>底气</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>士气</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>才气</p>"
+                    }
+                ],
+                "Version": "9aa293653bb04a5997da8d7b01214601",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600082,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654248,
+                "ProblemType": 2,
+                "template_id": 7600082,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>大学生要实现个人理想和社会理想的统一,就要做到()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>彻底牺牲小我,成就大我</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>坚持个人奋斗目标与国家民族的奋斗目标相统一</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>在实现社会理想的过程中实现个人理想</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>主观为自己,客观为别人</p>"
+                    }
+                ],
+                "Version": "df5ecccfe3cf44d68228f20223f7815b",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600083,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654249,
+                "ProblemType": 2,
+                "template_id": 7600083,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>下列各项中,属于中国共产党精神谱系的是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>延安精神</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>脱贫攻坚精神</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>特区精神</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>抗美援朝精神</p>"
+                    }
+                ],
+                "Version": "16531600e280403cacb61ed2b9c1232e",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7525162,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654250,
+                "ProblemType": 2,
+                "template_id": 7525162,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>在我国,司法机关是指国家(\n )\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>审判机关</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>行政机关</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>公安机关</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>检察机关</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>权力机关</p>"
+                    }
+                ],
+                "Version": "f6f7c542e19a4a90bccd5f4aaf461aa0",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547611,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654251,
+                "ProblemType": 2,
+                "template_id": 7547611,
+                "awardingRule": 0
+            },
+            {
+                "Body": "<p>坚持中国特色社会主义法治道路必须遵循的原则是(\n \n )。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>坚持中国共产党的领导</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>坚持人民主体地位</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>坚持法律面前人人平等</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>坚持依法治国和以德治国相结合</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>坚持从中国实际出发</p>"
+                    }
+                ],
+                "Version": "c186da0318ae47059d58ad63c436115b",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547612,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654252,
+                "ProblemType": 2,
+                "template_id": 7547612,
+                "awardingRule": 0
+            },
+            {
+                "Body": "大学生要保持对理想信念的激情和执着,将实现中华民族伟大复兴的中国梦的历史使命内化为担当的自觉,外化为实际的行动。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "04f91756d0654e11bd42884f64947bc5",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7454448,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654253,
+                "ProblemType": 6,
+                "template_id": 7454448
+            },
+            {
+                "Body": "不同阶级之间的道德没有共同之处。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "e04f7a1915b34c58beb650699d94bf8f",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600084,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654254,
+                "ProblemType": 6,
+                "template_id": 7600084
+            },
+            {
+                "Body": "道德作为一种调节方式,主要是被颁布、制定或规定出来的。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "0cb3fa84c4854cc5b879a4b49f7177f2",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600085,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654255,
+                "ProblemType": 6,
+                "template_id": 7600085
+            },
+            {
+                "Body": "有什么样的社会经济关系,相应地就有什么样的道德。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "7458b55e5e9c43ef98b2184d8e9c0f24",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600086,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654256,
+                "ProblemType": 6,
+                "template_id": 7600086
+            },
+            {
+                "Body": "道德是一种精神、一种意识,因而可以脱离于社会实践而存在。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "4fbad425c4f14363afe844075766ef7e",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600087,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654257,
+                "ProblemType": 6,
+                "template_id": 7600087
+            },
+            {
+                "Body": "道德和法律一样,都是通过规范人的行为发挥作用。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "0089eb6236534c78be515ef1c5b500ee",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600088,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654258,
+                "ProblemType": 6,
+                "template_id": 7600088
+            },
+            {
+                "Body": "大学生在择业和创业时只需要考虑个人的兴趣和意愿。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "06027cbe4cfe4a388a228a0e6447834d",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7528056,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654259,
+                "ProblemType": 6,
+                "template_id": 7528056
+            },
+            {
+                "Body": "在校大学生如果符合我国法律规定的结婚条件可以结婚。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "fef345a0d75e4d7185f607825576344e",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600089,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654260,
+                "ProblemType": 6,
+                "template_id": 7600089
+            },
+            {
+                "Body": "习近平总书记在庆祝中国共产党成立100周年大会上,首次概括阐述了“坚持真理、坚守理想,践行初心、担当使命,不怕牺牲、英勇斗争,对党忠诚、不负人民”的伟大建党精神,指出“这是中国共产党的精神之源”。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "b3299df281e5406e82c1cc370c4ebc5e",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7525167,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654261,
+                "ProblemType": 6,
+                "template_id": 7525167
+            },
+            {
+                "Body": "大学生都要像爱护自己的眼睛一样维护民族团结,像爱护自己的生命一样维护社会稳定,自觉做民族团结进步事业的建设者、维护者、促进者。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "79b4db6f1c2f4f8aaea714272cc4c184",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600090,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654262,
+                "ProblemType": 6,
+                "template_id": 7600090
+            },
+            {
+                "Body": "共产主义是未经实践检验的,无法实现的渺茫幻想。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "6e194409e56745bfa006cac198c90cd7",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600091,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654263,
+                "ProblemType": 6,
+                "template_id": 7600091
+            },
+            {
+                "Body": "在当代中国,爱国主义首先体现在对社会主义中国的热爱上。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "0b82c2da92334692a5ecca95a59daeef",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7600092,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654264,
+                "ProblemType": 6,
+                "template_id": 7600092
+            },
+            {
+                "Body": "西方国家所谓的“普世价值”指的是人类价值的普遍性。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "false"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "668653889a26495a8b9d60bbe4856a09",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7527336,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654265,
+                "ProblemType": 6,
+                "template_id": 7527336
+            },
+            {
+                "Body": "世界上没有放之四海而皆准的价值观及其相应的制度。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "2c58629f08484106b9df790b28ac866a",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7527337,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654266,
+                "ProblemType": 6,
+                "template_id": 7527337
+            },
+            {
+                "Body": "人民立场是社会主义核心价值观的根本立场。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "97da8bc7b03e407bbe40d2d3f5f57703",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7527338,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654267,
+                "ProblemType": 6,
+                "template_id": 7527338
+            },
+            {
+                "Body": "文化软实力的竞争,本质上是不同文化所代表的核心价值观的竞争。(\n )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "4f386836b7a84679a0b2343ce405dab0",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7527339,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654268,
+                "ProblemType": 6,
+                "template_id": 7527339
+            },
+            {
+                "Body": "全国人民代表大会和地方各级人民代表大会由民主选举产生,对人民负责,受人民监督。(\n    )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "6095c4fde934488fb18b7894d81ac68b",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547648,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654269,
+                "ProblemType": 6,
+                "template_id": 7547648
+            },
+            {
+                "Body": "人民民主专政的实质就是无产阶级专政,是在中国具体历史条件下的表现形式。(\n    )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "575fff79625140d3999ee131193b7c8f",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547649,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654270,
+                "ProblemType": 6,
+                "template_id": 7547649
+            },
+            {
+                "Body": "法治思维蕴含着公正、平等、民主、人权等法治理念。(\n   )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "63e25f79b6594129ab399a68ef035aa3",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547650,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654271,
+                "ProblemType": 6,
+                "template_id": 7547650
+            },
+            {
+                "Body": "法律权利与法律义务相互依存,法律权利的实现必须以相应法律义务的履行为条件。(\n   )\n\n",
+                "Type": "Judgement",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "true"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "true",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "false",
+                        "value": "错误"
+                    }
+                ],
+                "Version": "33222a912bfa4dd4bade9fcadc9a67f7",
+                "TypeText": "判断题",
+                "HasRemark": false,
+                "LibraryID": 4084,
+                "max_retry": 1,
+                "TemplateID": 7547656,
+                "difficulty": 1,
+                "library_id": 4084,
+                "problem_id": 154654272,
+                "ProblemType": 6,
+                "template_id": 7547656
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "期末考试"
+    }
+}
