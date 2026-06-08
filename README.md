@@ -34,7 +34,7 @@
 #### 基本使用
 先在浏览器复制cookies, 需要json格式,粘贴进main.py中,补全cookies变量的值
 想获取json格式的cookies可以运行cookies_to_json.py,将纯文本的cookies转换成json格式
-
+还有其他参数详见main.py
 然后运行主程序：
 ```
 python main.py
