@@ -13,6 +13,8 @@
 - Python 3.x
 - 必要的Python库（见requirements.txt）
 
+[使用指北](https://blog.skrepy.dpdns.org/articles/tutorial/20260611.html)
+
 ### 安装步骤
 
 1. 克隆或下载本仓库到本地
